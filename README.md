@@ -1,6 +1,6 @@
 # 🌟 Mi Primer Repositorio
 
-👋 ¡Hola! Soy **Edgard Huayhua Venegas** y este es mi primer proyecto usando **Git y GitHub**.  
+👋 ¡Hola! Soy **Edunull** y este es mi primer proyecto usando **Git y GitHub**.  
 Aquí comienzo mi camino para dominar el control de versiones y trabajar en proyectos de desarrollo profesional. 🚀
 
 ---
@@ -35,6 +35,6 @@ Seguir con la **Etapa 2: “Tareas con versión”**, donde practicaré más com
 ---
 
 ### ✨ Autor
-**Edgard Huayhua Venegas**  
+**Edunull**  
 📅 *Creado en octubre de 2025*  
 💬 *Aprendiendo Git paso a paso*
