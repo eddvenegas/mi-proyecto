@@ -38,3 +38,5 @@ Seguir con la **Etapa 2: “Tareas con versión”**, donde practicaré más com
 **Edunull**  
 📅 *Creado en octubre de 2025*  
 💬 *Aprendiendo Git paso a paso*
+
+![Banner animado](banner.gif)
