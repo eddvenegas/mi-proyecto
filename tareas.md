@@ -1,5 +1,5 @@
 # Lista de tareas
 
-- [ ] Aprender git init
-- [ ] Hacer mi primer commit
+- [x] Aprender git init
+- [x] Hacer mi primer commit
 - [ ] Subir mi proyecto a GitHub
